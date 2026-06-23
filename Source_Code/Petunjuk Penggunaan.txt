@@ -1,0 +1,3 @@
+bash
+python main.py #menjalankan alur penelitian
+streamlit run ai_medical_integrated.py #menjalankan uji penelitian
